@@ -1,3 +1,3 @@
 # test
-to jest testowe repo python
-test 
+*to jest testowe repo python
+*test 
